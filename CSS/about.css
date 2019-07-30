@@ -61,6 +61,7 @@ ul {
 p {
 
   font-size: 20px;
+  margin-left: 7%;
 
 }
 
@@ -139,9 +140,10 @@ hr {
 }
 
 div.contrast {
-  background-color: rgb(200,162,200);
+  background-color: #02075D;
   color: white;
-  width: 50%;
+  width: 60%;
+  margin-left: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
