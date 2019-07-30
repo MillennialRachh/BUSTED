@@ -61,6 +61,7 @@ ul {
 p {
 
   font-size: 20px;
+
 }
 
 
@@ -117,6 +118,13 @@ p {
   font-size: 120%
 }
 
+#parent-div {
+  margin:auto;
+  padding-left: 10%;
+  text-align: center;
+  width: 90%;
+}
+
 hr {
   width: 90%;
   height: 10px;
@@ -133,6 +141,7 @@ hr {
 div.contrast {
   background-color: rgb(200,162,200);
   color: white;
+  width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
