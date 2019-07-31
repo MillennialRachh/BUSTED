@@ -5,8 +5,14 @@
   height: 230px;
   border-radius: 20px;
   padding: 25px;
+
 }
 
+
+header {
+  background-image: url("http://tinyimg.io/i/8muQOET.jpg");
+  color: black;
+}
 
 h1 {
   text-align: center;
@@ -23,6 +29,7 @@ h3 {
   text-align: center;
   font-size:40px;
   font-family: Helvetica,sans-serif;
+  color: black;
 }
 
 ul {
@@ -128,7 +135,7 @@ p {
 
 hr {
   width: 90%;
-  height: 10px;
+  height: 5px;
   position: relative;
   background-color: black;
   margin-right: auto;
@@ -140,7 +147,7 @@ hr {
 }
 
 div.contrast {
-  background-color: #02075D;
+  background-color: rgb(200,162,200);
   color: white;
   width: 60%;
   margin-left: 20%;
