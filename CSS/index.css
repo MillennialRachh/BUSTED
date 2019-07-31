@@ -67,7 +67,29 @@ p {
   text-align: center;
 }
 
+p2 {
+  float: inherit;
+  margin: 15px;
+}
+
 #carouselExampleFade {
   width: 50%;
   margin-left: 22%;
+}
+
+.image{
+  width:200px;
+  text-align:center;
+  display:block;
+  padding-left: 10%;
+  background-color: transparent;
+  border: 1px solid transparent;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+
+#index-gallery{
+  width:465px;
 }
