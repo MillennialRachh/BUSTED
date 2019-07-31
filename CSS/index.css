@@ -3,20 +3,12 @@
   height: 230px;
   border-radius: 20px;
   padding: 25px;
-  margin-right: 5%;
-  margin-left: 5%;
 }
-
-header {
-    background-image: url("http://tinyimg.io/i/8muQOET.jpg");
-  }
-
 
 body {
-  margin-right: 5%;
-  margin-left: 5%;
-}
+    background-color: #ffebcd;
 
+}
 
 h1 {
   text-align: center;
@@ -25,6 +17,11 @@ h1 {
 
 h2 {
   text-align:center;
+
+}
+
+#paragraph {
+  position: relative;
 
 }
 
@@ -79,11 +76,6 @@ p {
   text-align: center;
 }
 
-p2 {
-  float: inherit;
-  margin: 15px;
-}
-
 #carouselExampleFade {
   width: 50%;
   margin-left: 22%;
@@ -96,7 +88,6 @@ p2 {
   padding-left: 10%;
   background-color: transparent;
   border: 1px solid transparent;
-  align-items: center;
   margin-right: 10px;
   margin-bottom: 1px;
   float:left;
