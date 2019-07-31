@@ -10,6 +10,11 @@ body {
 
 }
 
+header {
+  background-image: url("http://tinyimg.io/i/8muQOET.jpg");
+  color: black;
+}
+
 h1 {
   text-align: center;
   font-size:70px
@@ -20,9 +25,8 @@ h2 {
 
 }
 
-#paragraph {
-  position: relative;
-
+#container {
+  display: flex;
 }
 
 hr {
@@ -47,7 +51,7 @@ h3 {
 ul {
      padding: 12px;
      width: 100%;
-     background-color: rgb(200,162,200);
+     background-color: #79CDCD;
      color: white;
      text-align: center;
 
