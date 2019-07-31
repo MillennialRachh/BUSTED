@@ -3,6 +3,18 @@
   height: 230px;
   border-radius: 20px;
   padding: 25px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+header {
+    background-image: url("http://tinyimg.io/i/8muQOET.jpg");
+  }
+
+
+body {
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 

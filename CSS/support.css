@@ -1,0 +1,44 @@
+#header {
+  background-color: white;
+  height: 230px;
+  border-radius: 20px;
+  padding: 25px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+header {
+  background-image: url("http://tinyimg.io/i/8muQOET.jpg");
+}
+
+
+h1 {
+  text-align: center;
+  font-size:70px
+}
+
+ul {
+     padding: 12px;
+     width: 100%;
+     background-color: rgb(200,162,200);
+     color: white;
+     text-align: center;
+
+}
+
+   li {
+     display: inline;
+     font-size: 17px;
+     padding: 0px 10px 0px 10px;
+   }
+
+
+   ul a:hover {
+     background-color: blue;
+   }
+
+   body {
+  font-family: Helvetica;
+  margin-right: 5%;
+  margin-left: 5%;
+}
